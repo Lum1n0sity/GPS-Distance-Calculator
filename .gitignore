@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 build/
 
 CMakeCache.txt
@@ -24,3 +25,37 @@ CMakeFiles/
 *.gcda
 *.gcov
 *.pdb
+=======
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+>>>>>>> 22490189d09f0dc757b415af3d7bfe40e76457a1
